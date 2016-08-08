@@ -2,7 +2,7 @@
 	"name":"fish-stream",
 	"description":"Event Stream Services",
 	"version":"0.0.1",
-	"private":true,
+	"private":false,
 	"author":"David Hediant <hediant@gmail.com>",
 	"contributors":[
 	],

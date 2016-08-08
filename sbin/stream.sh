@@ -2,8 +2,8 @@
 
 cd `dirname $0`
 
-if [ ! -d "../log" ]; then
-  mkdir ../log
+if [ ! -d "../logs" ]; then
+  mkdir ../logs
 fi
 
 APPJSON='stream.json'

@@ -4,7 +4,7 @@
 			"name" : "stream",
 			"script" : "../app.js",
 			"watch" : false,
-			"error_file" : "../log/error.log",
+			"error_file" : "../logs/error.log",
 			"out_file" : "/dev/null", 
 			"max_restarts" : 10,
 			"max_memory_restart" : "3G",
